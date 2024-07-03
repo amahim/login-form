@@ -1,0 +1,16 @@
+.divv{
+    border: 10px solid violet;
+    border-radius: 5px;
+    margin: 10% 15% 15% 15%;
+    text-align: center;
+    background-color: blueviolet;
+    padding: 10px;
+    box-shadow: 5px 4px 5px pink;
+    
+}
+.forgetpass{
+    text-decoration: underline;
+}
+.pass{
+    text-align: center;
+}
